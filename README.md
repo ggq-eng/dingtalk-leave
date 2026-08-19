@@ -1,0 +1,3 @@
+# dingtalk-leave
+
+Initial commit.
